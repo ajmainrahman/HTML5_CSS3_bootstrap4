@@ -1,0 +1,26 @@
+/* body{
+    color: whitesmoke;
+    background-color: deepskyblue;
+    border: 2px solid black;
+} */
+body{
+    background-color: whitesmoke;
+}
+p{
+    color: orange;
+}
+/* .p2{
+    color: mediumspringgreen;
+} */
+#p2{
+    color: magenta;
+}
+h1{
+    color: brown;
+}
+h3{
+    color: yellowgreen;
+}
+.yellow{
+    border: 2px solid black;
+}

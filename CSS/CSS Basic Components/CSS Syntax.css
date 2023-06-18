@@ -1,0 +1,9 @@
+body{
+    color: red;
+    background-color: lightblue;
+    border: 2px solid black;
+}
+
+/* selector{ css works that's way
+    property: value;
+} */
